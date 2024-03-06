@@ -1,5 +1,5 @@
 # bot-mc
-**DISCLAIMER: Botting is not allowed in ALL server hoster, please aware of this as your account will be suspended!!
+**DISCLAIMER: (Dont recomend if u had big server) Botting is not allowed in ALL server hoster, please aware of this as your account will be suspended!!
 I DONT HAVE RESPONSIBILITY IF YOUR HOSTING PROVIDER'S BANNED YOU.**
 
 Bot-mc is a minecraft bot based on `npm install mineflayer mineflayer-pathfinder minecraft-data fs`.
