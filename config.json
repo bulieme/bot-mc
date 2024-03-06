@@ -1,0 +1,12 @@
+{
+	"botInfo":{
+		"host": "localhost",  // IP Adress (localhost for LAN)
+		"username": "boty",   // Username
+		//"password": "",     // Password for microsoft auth
+		"auth": "offline",    // Authentication mode, set to "offline" for a non minecraft buyers account.
+		"port": 3000,         // Port, Assigned when turning LAN mode on
+		"version": "1.20.4",  // Set this to false for autotmatic version selector
+	},
+	"botOwner": "bulieme1881",// Your username
+	"port": 5050              // Web Port for monitoring stuff idk
+}
