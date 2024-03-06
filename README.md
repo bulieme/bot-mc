@@ -29,6 +29,7 @@ node index.js
 ```
 
 # REMINDER
-Please if you want to """"OWN"""" this code for your youtube stuff, go away.
 
-only make tutorials how to run this.
+pls do not own this code for views. i dont want you to """own""" this code and profit all of it.
+
+only make tutorials how to run this. Clone this to ur repo to to own it for urself.
